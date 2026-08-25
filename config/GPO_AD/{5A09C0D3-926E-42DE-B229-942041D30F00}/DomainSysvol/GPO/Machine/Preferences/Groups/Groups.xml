@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Groups clsid="{3125E937-EB16-4b4c-9934-544FC6D24D26}"><User clsid="{DF5F1855-51E5-4d24-8B1A-D9BDE98BA1D1}" name="admin" image="2" changed="2026-08-25 08:33:36" uid="{A66DE501-0EE5-4AE4-A598-F12AEA6B070A}"><Properties action="U" newName="" fullName="" description="" cpassword="" changeLogon="0" noChange="0" neverExpires="1" acctDisabled="0" subAuthority="" userName="admin" expires="2026-08-25"/></User>
+	<Group clsid="{6D4A79E4-529C-4481-ABD0-F5BD7EA93BA7}" name="Administrators (built-in)" image="2" changed="2026-08-25 07:54:48" uid="{3CC56008-DE10-439F-B4FE-03586B69EBB8}"><Properties action="U" newName="" description="" deleteAllUsers="0" deleteAllGroups="0" removeAccounts="0" groupSid="S-1-5-32-544" groupName="Administrators (built-in)"><Members><Member name="admin" action="ADD" sid=""/></Members></Properties></Group>
+</Groups>
